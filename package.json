@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/mnrendra/materialios-hooks/issues"
   },
-  "homepage": "https://github.com/mnrendra/materialios-hooks#readme"
+  "homepage": "https://github.com/mnrendra/materialios-hooks#readme",
+  "private": false
 }
